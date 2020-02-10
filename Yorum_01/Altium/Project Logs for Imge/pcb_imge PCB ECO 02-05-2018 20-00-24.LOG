@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=U2_TRIG Pin=MSP-11
+Added Pin To Net: NetName=U2_ECHO Pin=MSP-12
+Added Room: Name=sch_imge

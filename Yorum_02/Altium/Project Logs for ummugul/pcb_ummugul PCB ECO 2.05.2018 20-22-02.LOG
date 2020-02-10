@@ -1,0 +1,87 @@
+Added Component: Designator=3vReg(3v3regulatorum_)
+Added Component: Designator=5vReg(5vregulatorum_)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=EKRAN(EKRAN - duplicate)
+Added Component: Designator=KLEMENTS(klements)
+Added Component: Designator=MSP430(msp430)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=ultrasonik1(ultrasonik)
+Added Component: Designator=ultrasonik(ultrasonik)
+Added Pin To Net: NetName=GND Pin=3vReg-0
+Added Pin To Net: NetName=3V Pin=3vReg-1
+Added Pin To Net: NetName=5V Pin=3vReg-2
+Added Pin To Net: NetName=9V Pin=5vReg-1
+Added Pin To Net: NetName=GND Pin=5vReg-2
+Added Pin To Net: NetName=5V Pin=5vReg-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=9V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=EKRAN-1
+Added Pin To Net: NetName=5V Pin=EKRAN-2
+Added Pin To Net: NetName=GND Pin=EKRAN-5
+Added Pin To Net: NetName=5V Pin=EKRAN-15
+Added Pin To Net: NetName=GND Pin=EKRAN-16
+Added Pin To Net: NetName=9V Pin=KLEMENTS-1
+Added Pin To Net: NetName=GND Pin=KLEMENTS-2
+Added Pin To Net: NetName=3V Pin=MSP430-1
+Added Pin To Net: NetName=3V Pin=MSP430-16
+Added Pin To Net: NetName=GND Pin=MSP430-20
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=5V Pin=ultrasonik1-1
+Added Pin To Net: NetName=GND Pin=ultrasonik1-4
+Added Pin To Net: NetName=5V Pin=ultrasonik-1
+Added Pin To Net: NetName=GND Pin=ultrasonik-4
+Added Pin To Net: NetName=NetEKRAN_3 Pin=EKRAN-3
+Added Pin To Net: NetName=NetEKRAN_3 Pin=R1-2
+Added Net: Name=NetEKRAN_3
+Added Pin To Net: NetName=NetEKRAN_4 Pin=EKRAN-4
+Added Pin To Net: NetName=NetEKRAN_4 Pin=MSP430-6
+Added Net: Name=NetEKRAN_4
+Added Pin To Net: NetName=NetEKRAN_6 Pin=EKRAN-6
+Added Pin To Net: NetName=NetEKRAN_6 Pin=MSP430-7
+Added Net: Name=NetEKRAN_6
+Added Pin To Net: NetName=NetEKRAN_11 Pin=EKRAN-11
+Added Pin To Net: NetName=NetEKRAN_11 Pin=MSP430-2
+Added Net: Name=NetEKRAN_11
+Added Pin To Net: NetName=NetEKRAN_12 Pin=EKRAN-12
+Added Pin To Net: NetName=NetEKRAN_12 Pin=MSP430-3
+Added Net: Name=NetEKRAN_12
+Added Pin To Net: NetName=NetEKRAN_13 Pin=EKRAN-13
+Added Pin To Net: NetName=NetEKRAN_13 Pin=MSP430-4
+Added Net: Name=NetEKRAN_13
+Added Pin To Net: NetName=NetEKRAN_14 Pin=EKRAN-14
+Added Pin To Net: NetName=NetEKRAN_14 Pin=MSP430-5
+Added Net: Name=NetEKRAN_14
+Added Pin To Net: NetName=NetMSP430_9 Pin=MSP430-9
+Added Pin To Net: NetName=NetMSP430_9 Pin=ultrasonik1-2
+Added Net: Name=NetMSP430_9
+Added Pin To Net: NetName=NetMSP430_10 Pin=MSP430-10
+Added Pin To Net: NetName=NetMSP430_10 Pin=ultrasonik1-3
+Added Net: Name=NetMSP430_10
+Added Pin To Net: NetName=NetMSP430_12 Pin=MSP430-12
+Added Pin To Net: NetName=NetMSP430_12 Pin=ultrasonik-3
+Added Net: Name=NetMSP430_12
+Added Pin To Net: NetName=NetMSP430_13 Pin=MSP430-13
+Added Pin To Net: NetName=NetMSP430_13 Pin=ultrasonik-2
+Added Net: Name=NetMSP430_13
+Added Member To Class: ClassName=sematik Member=Component 3vReg LM1117
+Added Member To Class: ClassName=sematik Member=Component 5vReg LM7805
+Added Member To Class: ClassName=sematik Member=Component C1 Cap
+Added Member To Class: ClassName=sematik Member=Component C2 Cap
+Added Member To Class: ClassName=sematik Member=Component C3 Cap
+Added Member To Class: ClassName=sematik Member=Component C4 Cap
+Added Member To Class: ClassName=sematik Member=Component EKRAN
+Added Member To Class: ClassName=sematik Member=Component KLEMENTS
+Added Member To Class: ClassName=sematik Member=Component MSP430
+Added Member To Class: ClassName=sematik Member=Component R1 Res1
+Added Member To Class: ClassName=sematik Member=Component ultrasonik1 ultrasonik
+Added Member To Class: ClassName=sematik Member=Component ultrasonik
+Added Room: Name=sematik

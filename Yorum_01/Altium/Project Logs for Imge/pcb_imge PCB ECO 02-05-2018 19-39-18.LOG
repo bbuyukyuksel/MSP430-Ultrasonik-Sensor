@@ -1,0 +1,79 @@
+Added Component: Designator=3v3Reg(3v3_Reg_)
+Added Component: Designator=5VREG(5V_REG)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.3)
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=K(Klements)
+Added Component: Designator=LCD(LCD)
+Added Component: Designator=MSP(MSP430G2553_FP)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=U1(Ultasonik_FP)
+Added Component: Designator=U2(Ultasonik_FP)
+Added Pin To Net: NetName=3V3 Pin=3v3Reg-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=MSP-1
+Added Pin To Net: NetName=3V3 Pin=MSP-16
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=3v3Reg-2
+Added Pin To Net: NetName=5V Pin=5VREG-2
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=LCD-2
+Added Pin To Net: NetName=5V Pin=LCD-15
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=9V Pin=5VREG-0
+Added Pin To Net: NetName=9V Pin=C3-2
+Added Pin To Net: NetName=9V Pin=K-1
+Added Net: Name=9V
+Added Pin To Net: NetName=GND Pin=5VREG-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=K-2
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=LCD-5
+Added Pin To Net: NetName=GND Pin=LCD-16
+Added Pin To Net: NetName=GND Pin=MSP-20
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Net3v3Reg_0 Pin=3v3Reg-0
+Added Pin To Net: NetName=Net3v3Reg_0 Pin=C1-1
+Added Pin To Net: NetName=Net3v3Reg_0 Pin=C2-1
+Added Net: Name=Net3v3Reg_0
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=NetLCD_3 Pin=R1-2
+Added Net: Name=NetLCD_3
+Added Pin To Net: NetName=P1.0 Pin=LCD-11
+Added Pin To Net: NetName=P1.0 Pin=MSP-2
+Added Net: Name=P1.0
+Added Pin To Net: NetName=P1.1 Pin=LCD-12
+Added Pin To Net: NetName=P1.1 Pin=MSP-3
+Added Net: Name=P1.1
+Added Pin To Net: NetName=P1.2 Pin=LCD-13
+Added Pin To Net: NetName=P1.2 Pin=MSP-4
+Added Net: Name=P1.2
+Added Pin To Net: NetName=P1.3 Pin=LCD-14
+Added Pin To Net: NetName=P1.3 Pin=MSP-5
+Added Net: Name=P1.3
+Added Pin To Net: NetName=P1.4 Pin=LCD-4
+Added Pin To Net: NetName=P1.4 Pin=MSP-6
+Added Net: Name=P1.4
+Added Pin To Net: NetName=P1.5 Pin=LCD-6
+Added Pin To Net: NetName=P1.5 Pin=MSP-7
+Added Net: Name=P1.5
+Added Pin To Net: NetName=U1_ECHO Pin=MSP-10
+Added Pin To Net: NetName=U1_ECHO Pin=U1-3
+Added Net: Name=U1_ECHO
+Added Pin To Net: NetName=U1_TRIG Pin=MSP-9
+Added Pin To Net: NetName=U1_TRIG Pin=U1-2
+Added Net: Name=U1_TRIG
+Added Pin To Net: NetName=U2_ECHO Pin=U2-3
+Added Net: Name=U2_ECHO
+Added Pin To Net: NetName=U2_TRIG Pin=U2-2
+Added Net: Name=U2_TRIG
+Added Class: Name=sch_imge
+Added Room: Name=sch_imge
